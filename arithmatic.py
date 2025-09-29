@@ -1,0 +1,7 @@
+name = input("Enter student name: ")
+usn = input("Enter student USN: ")
+course=input("Enter student course: ")
+print("\nStudent Details:")
+print("Name:", name)
+print("USN:", usn)
+print("Course:", course)
